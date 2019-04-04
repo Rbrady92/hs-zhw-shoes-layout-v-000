@@ -58,7 +58,20 @@
   margin: 10px 0 0 0;
 }
 
-#details .column {
+#details .left-column {
+  float: left;
+  width: 32%;
+  margin: 10px 0 0 0;
+}
+
+
+#details .center-column {
+  float: left;
+  width: 32%;
+  margin: 10px 0 0 0;
+}
+
+#details .right-column {
   float: left;
   width: 32%;
   margin: 10px 0 0 0;
