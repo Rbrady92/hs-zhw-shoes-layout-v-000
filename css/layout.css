@@ -24,4 +24,42 @@
 
 /* Positioning Classes */
 
+.shadow {
+  background: white;
+}
 
+.featured-brand-main {
+  float: left;
+  width: 66%;
+  margin: 0 5px 10px 0;
+}
+
+.archive {
+  float: left;
+  width: 32%;
+  margin: 0 0 10px 10px;
+}
+
+.featured-left {
+    float: left;
+    width: 32%;
+    margin: 10px 0 0 0;
+}
+
+.featured-center {
+  float: left;
+  width: 32%;
+  margin: 10px 17px 0 17px;
+}
+
+.featured-right {
+  float: left;
+  width: 32%;
+  margin: 10px 0 0 0;
+}
+
+#details .column {
+  float: left;
+  width: 32%;
+  margin: 10px 0 0 0;
+}
